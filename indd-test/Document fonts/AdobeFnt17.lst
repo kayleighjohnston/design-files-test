@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Hetilica-Bold
+FamilyName:Hetilica
+StyleName:Bold
+MenuName:Hetilica
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Hetilica Bold
+WritingScript:Roman
+OutlineFileName:\hetilica.ttf
+DataFormat:sfntData
+FileLength:40664
+FileModTime:1462979936
+NameArray:0,Mac,18,Hetilica Bold
+NameArray:0,Mac,4,Hetilica Bold
+NameArray:0,Win,1,Hetilica
+NameArray:0,Win,16,Hetilica
+%EndFont
+
